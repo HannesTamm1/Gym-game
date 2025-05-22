@@ -3,7 +3,7 @@ import { computed, onMounted, onUnmounted, ref, watch } from 'vue';
 
 // State and Assets
 const cookies = ref(0);
-const currentCookieImage = ref('https://cdn.pixabay.com/photo/2018/03/20/22/07/silhouette-3244888_960_720.png'); // Replace with real pushup image URL
+const currentCookieImage = ref('https://i1.sndcdn.com/artworks-QG7LNLy9tZPej8hb-Ddqdog-t500x500.jpg'); // Replace with real pushup image URL
 const selectedWorkout = ref('');
 
 // Workout images
