@@ -11,7 +11,7 @@ const workoutImages = {
   'Pushups': 'https://cdn.pixabay.com/photo/2018/03/20/22/07/silhouette-3244888_960_720.png',
   'Bicep Curls': 'https://images.vexels.com/media/users/3/153212/isolated/preview/12dbcf7f0da82d08bab2d57cfed1931f-man-barbell-biceps-curl-silhouette.png',
   'Bench press': 'https://pngimg.com/d/powerlifting_PNG26.png',
-  'Squats': 'https://www.pngmart.com/files/17/Squat-Silhouette-PNG-Transparent-Image.png',
+  'Squats': 'https://e7.pngegg.com/pngimages/801/114/png-clipart-gopnik-drawing-hardbass-slavs-squatting-position-others-miscellaneous-black.png',
   'Deadlifts': 'https://pngimg.com/d/powerlifting_PNG35.png',
   'Running': 'https://images.vexels.com/media/users/3/131405/isolated/preview/eba88a6668c8f1d42dab4097cc99851d-man-running-silhouette-16.png',
 };
