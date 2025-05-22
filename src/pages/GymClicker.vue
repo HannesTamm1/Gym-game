@@ -9,11 +9,11 @@ const selectedWorkout = ref('');
 // Workout images
 const workoutImages = {
   'Pushups': 'https://cdn.pixabay.com/photo/2018/03/20/22/07/silhouette-3244888_960_720.png',
-  'Bicep Curls': 'https://png.pngtree.com/png-vector/20241109/ourmid/pngtree-muscular-man-performing-bicep-curls-with-dumbbells-for-arm-strength-png-image_14337311.png',
-  'Bench press': 'https://www.shutterstock.com/image-vector/weight-lifting-muscle-man-bodybuilder-600nw-2294612599.jpg',
-  'Squats': 'https://rlv.zcache.com/squat_silhouette_poster-r12fd89b08c274a12b5737f84f0a45952_wqa_8byvr_644.webp',
-  'Deadlifts': 'https://static.vecteezy.com/system/resources/thumbnails/053/968/531/small/man-doing-deadlift-vector.jpg',
-  'Running': 'https://media.istockphoto.com/id/923757234/vector/black-runner.jpg?s=612x612&w=0&k=20&c=nkd8EQZythJYPlFH6tYsZzeL-xLdxRBRZitzwXjUDzA=',
+  'Bicep Curls': 'https://images.vexels.com/media/users/3/153212/isolated/preview/12dbcf7f0da82d08bab2d57cfed1931f-man-barbell-biceps-curl-silhouette.png',
+  'Bench press': 'https://pngimg.com/d/powerlifting_PNG26.png',
+  'Squats': 'https://www.pngmart.com/files/17/Squat-Silhouette-PNG-Transparent-Image.png',
+  'Deadlifts': 'https://pngimg.com/d/powerlifting_PNG35.png',
+  'Running': 'https://images.vexels.com/media/users/3/131405/isolated/preview/eba88a6668c8f1d42dab4097cc99851d-man-running-silhouette-16.png',
 };
 
 // Buildings
